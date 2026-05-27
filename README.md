@@ -26,6 +26,7 @@ AWS Academy Graduate - Cloud Developing
 
 📬 Let's connect:
 Email: yarinkash1@gmail.com
+
 LinkedIn: Yarin Keshet
 
 Thanks for stopping by — feel free to explore, star, or reach out! 🌟
