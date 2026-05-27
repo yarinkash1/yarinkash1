@@ -18,9 +18,9 @@ My Organization link : https://github.com/Rehab-Game-Dev
 
 AWS Academy Graduate - Cloud Developing
 
-📜 [AWS Cloud Practitioner Essentials — Completed April 02, 2026](./AWS%20Cloud%20Practiotioner%20Essentials%20Certificate.pdf)
-
 📜 [AWS Academy Cloud Developing Certificate](./AWS%20Academy%20Cloud%20Developing%20Certificate.pdf)
+
+📜 [AWS Cloud Practitioner Essentials](./AWS%20Cloud%20Practiotioner%20Essentials%20Certificate.pdf)
 
 ---
 
