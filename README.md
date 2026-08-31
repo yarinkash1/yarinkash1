@@ -1,5 +1,5 @@
 👋 Hi there!
-I'm a Computer Science student at Ariel University, passionate about building cool projects, developing games, and always exploring new technologies.
+🎮 Game Developer | 🎓 Ariel University CS Grad | Open to game dev opportunities
 
 🛠️ Projects and more:
 
