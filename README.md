@@ -7,10 +7,6 @@ I'm a Computer Science student at Ariel University, passionate about building co
 
 - [SerenityShiftPC](https://github.com/Rehab-Game-Dev/SerenityShiftPC) — Therapeutic PC game for agoraphobia exposure therapy, built in Unity
 
-## ☁️ Cloud / Full-Stack Projects
-
-- [Tribunet](https://github.com/yarinkash1/Tribunet) — Serverless football matches map platform for Israel (React, AWS Lambda, DynamoDB)
-
 ## 🎓 CS Degree Coursework
 
 - [OS_FINAL_PROJ](https://github.com/yarinkash1/OS_FINAL_PROJ) — Operating Systems final project (C++)
@@ -18,6 +14,7 @@ I'm a Computer Science student at Ariel University, passionate about building co
 - [c_sharp_hackerrank_medium](https://github.com/yarinkash1/c_sharp_hackerrank_medium) — C# HackerRank practice (medium difficulty)
 - [bash_exercise](https://github.com/yarinkash1/bash_exercise) — Shell scripting exercises
 - [CPP_EX4_25](https://github.com/yarinkash1/CPP_EX4_25) / [CPP_EX3_25](https://github.com/yarinkash1/CPP_EX3_25) / [CPP_EX2_25](https://github.com/yarinkash1/CPP_EX2_25) / [CPP_EX1_25](https://github.com/yarinkash1/CPP_EX1_25) — C++ coursework exercises
+- [Tribunet](https://github.com/yarinkash1/Tribunet) — Serverless football matches map platform for Israel (React, AWS Lambda, DynamoDB)
 
 My Organization link : https://github.com/Rehab-Game-Dev
 
