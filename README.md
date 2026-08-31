@@ -1,14 +1,23 @@
 👋 Hi there!
 I'm a Computer Science student at Ariel University, passionate about building cool projects, developing games, and always exploring new technologies.
 
-🚀 What I love working on:
-- Game development 🎮
-- Full-stack applications 🌐
-- Algorithms and data structures 🧠
-- Learning new tools & frameworks 📚
-
 🛠️ Projects and more:
-Check out my repositories below — I'm always working on something new!
+
+## 🎮 Game Development
+
+- [SerenityShiftPC](https://github.com/Rehab-Game-Dev/SerenityShiftPC) — Therapeutic PC game for agoraphobia exposure therapy, built in Unity
+
+## ☁️ Cloud / Full-Stack Projects
+
+- [Tribunet](https://github.com/yarinkash1/Tribunet) — Serverless football matches map platform for Israel (React, AWS Lambda, DynamoDB)
+
+## 🎓 CS Degree Coursework
+
+- [OS_FINAL_PROJ](https://github.com/yarinkash1/OS_FINAL_PROJ) — Operating Systems final project (C++)
+- [AI-Generative_Models](https://github.com/yarinkash1/AI-Generative_Models) — Enrichment course in AI and generative models
+- [c_sharp_hackerrank_medium](https://github.com/yarinkash1/c_sharp_hackerrank_medium) — C# HackerRank practice (medium difficulty)
+- [bash_exercise](https://github.com/yarinkash1/bash_exercise) — Shell scripting exercises
+- [CPP_EX4_25](https://github.com/yarinkash1/CPP_EX4_25) / [CPP_EX3_25](https://github.com/yarinkash1/CPP_EX3_25) / [CPP_EX2_25](https://github.com/yarinkash1/CPP_EX2_25) / [CPP_EX1_25](https://github.com/yarinkash1/CPP_EX1_25) — C++ coursework exercises
 
 My Organization link : https://github.com/Rehab-Game-Dev
 
