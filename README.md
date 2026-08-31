@@ -22,18 +22,13 @@ My Organization link : https://github.com/Rehab-Game-Dev
 
 [![AWS Academy Graduate - Cloud Developing](https://images.credly.com/size/110x110/images/bb3211c0-a562-44ec-a8b5-df54deb0e5e9/blob)](https://www.credly.com/badges/37f87af1-e9cc-4e35-b249-372664cf7a81/public_url)
 
-AWS Academy Graduate - Cloud Developing
-
 📜 [AWS Academy Cloud Developing Certificate](./AWS%20Academy%20Cloud%20Developing%20Certificate.pdf)
 
 📜 [AWS Cloud Practitioner Essentials](./AWS%20Cloud%20Practiotioner%20Essentials%20Certificate.pdf)
 
 ---
 
-📬 Let's connect:
-Email: yarinkash1@gmail.com
-
-LinkedIn: Yarin Keshet
+📫 yarinkash1@gmail.com  |  LinkedIn
 
 Thanks for stopping by — feel free to explore, star, or reach out! 🌟
 
