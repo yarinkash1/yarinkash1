@@ -26,6 +26,9 @@ My Organization link : https://github.com/Rehab-Game-Dev
 
 📜 [AWS Cloud Practitioner Essentials](./AWS%20Cloud%20Practiotioner%20Essentials%20Certificate.pdf)
 
+## 🎖️ Military Service
+📜 [Electronic Warfare Technician — Israeli Navy (Feb 2019)](./navy-ew-technician-cert.jpg)
+
 ---
 
 📫 yarinkash1@gmail.com  |  LinkedIn
@@ -34,6 +37,7 @@ Thanks for stopping by — feel free to explore, star, or reach out! 🌟
 
 ### Languages:
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
