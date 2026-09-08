@@ -50,8 +50,6 @@ Serverless map platform for football matches across Israel.
   <img src="https://img.shields.io/badge/Linux%20%2F%20Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white">
 </p>
 
-<sub>Also comfortable writing SQL queries, working with MongoDB, and scripting basic Linux/Bash workflows.</sub>
-
 ---
 
 ### Coursework
