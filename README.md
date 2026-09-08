@@ -8,8 +8,6 @@
 <p align="center">
   <a href="mailto:yarinkash1@gmail.com"><img src="https://img.shields.io/badge/Email-yarinkash1%40gmail.com-1a1a1a?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/yarin-keshet-bb9541310/"><img src="https://img.shields.io/badge/LinkedIn-Yarin%20Keshet-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Rehab-Game-Dev"><img src="https://img.shields.io/badge/Org-Rehab--Game--Dev-6e5494?style=flat-square&logo=github&logoColor=white"></a>
-</p>
 
 ---
 
