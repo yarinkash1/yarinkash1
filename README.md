@@ -15,6 +15,7 @@
 ### Featured
 
 **[SerenityShiftPC](https://github.com/Rehab-Game-Dev/SerenityShiftPC)** — Unity
+
 A therapeutic PC game for agoraphobia exposure therapy, built with a clinical-exposure progression model.
 
 ---
