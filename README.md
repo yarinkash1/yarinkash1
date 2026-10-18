@@ -17,9 +17,6 @@
 **[SerenityShiftPC](https://github.com/Rehab-Game-Dev/SerenityShiftPC)** — Unity
 A therapeutic PC game for agoraphobia exposure therapy, built with a clinical-exposure progression model.
 
-**[Tribunet](https://github.com/yarinkash1/Tribunet)** — React · AWS Lambda · DynamoDB
-Serverless map platform for football matches across Israel.
-
 ---
 
 ### Toolbox
